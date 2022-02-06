@@ -1,5 +1,4 @@
 # Data-Structures-And-Algorithms-By-Robert-Lafore
-# Data Structures And Algorithms By Robert Lafore
 These are the applets that accompany the book "Data Structures and Algorithms in Java,"
 Second Edition. Robert Lafore, 2002
 
