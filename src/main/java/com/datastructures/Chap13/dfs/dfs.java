@@ -1,3 +1,5 @@
+package com.datastructures.Chap13.dfs;
+
 // dfs.java
 // demonstrates depth-first search
 // to run this program: C>java DFSApp
