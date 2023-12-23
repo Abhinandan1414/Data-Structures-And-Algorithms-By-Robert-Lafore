@@ -1,3 +1,5 @@
+package com.datastructures.Chap06.stackTriangle;
+
 // stackTriangle.java
 // evaluates triangular numbers, stack replaces recursion
 // to run this program: C>java StackTriangleApp

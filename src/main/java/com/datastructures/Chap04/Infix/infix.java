@@ -1,3 +1,5 @@
+package com.datastructures.Chap04.Infix;
+
 // infix.java
 // converts infix arithmetic expressions to postfix
 // to run this program: C>java InfixApp

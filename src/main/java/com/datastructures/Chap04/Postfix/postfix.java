@@ -1,3 +1,5 @@
+package com.datastructures.Chap04.Postfix;
+
 // postfix.java
 // parses postfix arithmetic expressions
 // to run this program: C>java PostfixApp

@@ -1,3 +1,5 @@
+package com.datastructures.Chap05.doublyLinked;
+
 // doublyLinked.java
 // demonstrates doubly-linked list
 // to run this program: C>java DoublyLinkedApp
@@ -154,7 +156,7 @@ class DoublyLinkedList
 // -------------------------------------------------------------
    }  // end class DoublyLinkedList
 ////////////////////////////////////////////////////////////////
-class DoublyLinkedApp
+class doublyLinked
    {
    public static void main(String[] args)
       {                             // make a new list
